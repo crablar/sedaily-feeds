@@ -1,0 +1,20 @@
+{
+    "username" : "bitcoin_bob",
+    "links_clicked" : [
+        "https://cointelegraph.com/news/bitcoin-ethereum-bitcoin-cash-ripple-iota-litecoin-dash-monero-price-analysis-dec-30",
+        "https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce?source=search_post---------1",
+        "https://genius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated",
+        "https://shift.newco.co/an-insiders-view-of-bitcoin-blockchain-and-the-future-of-money-12331bef8c63",
+        "https://www.bloomberg.com/news/articles/2017-12-15/coinbase-wants-wall-street-to-resolve-its-bitcoin-trust-issues"
+    ],
+    "episodes_listened" : [
+        {"21-with-balaji-srinivasan" : ".84"},
+        {"bitcoin-segwit-with-jordan-clifford" : ".72"},
+        {"blockchain-applications-with-mike-goldin" : ".64"},
+        {"blockchain-building-with-daniel-van-flymen" : ".93"},
+        {"coinbase-antifraud-with-soups-ranjan" : ".55"},
+        {"cryptoeconomics-with-vlad-zamfir" : ".62"},
+        {"coinbase-security-with-philip-martin" : ".72"},
+        {"fighting-fraud-at-coinbase-with-soups-ranjan" : ".44"}
+    ]
+}
