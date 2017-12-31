@@ -1,0 +1,10 @@
+{
+    "username" : "serverless_susan",
+    "episodes_listened" : [
+        {"slug" : "serverless-applications-with-randall-hunt", "percent_listened": ".84"},
+        {"slug" : "serverless-authentication-with-bobby-johnson", "percent_listened":".72"},
+        {"slug" : "serverless-event-driven-architecture-with-danilo-poccia", "percent_listened": ".64"},
+        {"slug" : "serverless-on-kubernetes-with-soam-vasani", "percent_listened": ".93"},
+        {"slug" : "serverless-scheduling-with-rodric-rabbah", "percent_listened": ".55"}
+    ]
+}

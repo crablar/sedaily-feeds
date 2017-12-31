@@ -1,0 +1,14 @@
+https://en.wikipedia.org/wiki/Bitcoin
+https://en.wikipedia.org/wiki/React_(JavaScript_library)
+https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf
+https://en.wikipedia.org/wiki/Kubernetes
+https://www.datadoghq.com/blog/the-docker-monitoring-problem/
+https://kubernetes.io/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana/
+https://en.wikipedia.org/wiki/Apache_Spark
+https://finance.yahoo.com/news/amazon-web-services-ceo-going-see-explosion-voice-apps-152533321.html
+https://martinfowler.com/articles/serverless.html
+https://medium.freecodecamp.org/i-just-deployed-a-serverless-app-and-i-cant-code-here-s-how-i-did-it-94983d7b43bd
+https://medium.freecodecamp.org/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536
+https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2?source=search_post---------0
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+https://vuejs.org/v2/guide/
